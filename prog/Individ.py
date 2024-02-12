@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def find_sum_between_negatives(*args):
     """
     Находит сумму аргументов между первым и вторым отрицательными аргументами.

@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def calculate_total_cost(**products):
     """
     Вычисляет итоговую сумму покупок с учетом налога и скидки.
